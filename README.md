@@ -170,11 +170,18 @@ realtime-genai-customer-service-bot/
 │       ├── ticket_priority.py
 │       ├── ticket_linking.py
 │       └── __init__.py
+```text
 ├── frontend/
-│   ├── App.jsx
-│   ├── App.css
-│   ├── index.css
-│   ├── main.jsx
+│   ├── src/
+│   │   ├── App.jsx
+│   │   ├── App.css
+│   │   ├── index.css
+│   │   ├── main.jsx
+│   │   └── assets/
+│   │       └── hero.png
+│   ├── public/
+│   │   ├── favicon.svg
+│   │   └── icons.svg
 │   ├── package.json
 │   ├── package-lock.json
 │   ├── vite.config.js
@@ -200,24 +207,11 @@ python -m venv .venv
 
 Install the required backend packages:
 
-``` text
-fastapi
-uvicorn
-scikit-learn
-sentence-transformers
-faiss-cpu
-pillow
-pymupdf
-pytesseract
-python-multipart
-```
+pip install -r backend/requirements.txt
 
-Tesseract OCR is required for image OCR. The development environment
-used:
+Tesseract OCR is required for image OCR. Install Tesseract OCR separately and make sure the executable is available at:
 
-``` text
 C:\Program Files\Tesseract-OCR\tesseract.exe
-```
 
 ## Run Backend
 
