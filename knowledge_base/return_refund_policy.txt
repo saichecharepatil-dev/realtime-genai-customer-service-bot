@@ -1,0 +1,27 @@
+METADATA
+version: 1.0
+product: all
+region: IN
+access_level: public
+effective_date: 2026-01-01
+expiry_date: 2026-12-31
+
+RETURN AND REFUND POLICY
+
+Return Eligibility:
+Customers can request a return within 7 days of receiving the product.
+
+Product Condition:
+Products must be unused and returned in their original packaging.
+
+Refund Processing:
+After the returned product is inspected and approved, the refund is normally processed within 5 to 7 business days.
+
+Damaged Products:
+Customers who receive a damaged product should contact customer support and provide their order ID and evidence of the damage.
+
+Wrong Product:
+If the customer receives the wrong product, they should contact customer support with their order ID.
+
+Non-Returnable Products:
+Certain products may not be eligible for return according to product-specific policies.

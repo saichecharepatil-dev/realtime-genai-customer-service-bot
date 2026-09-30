@@ -1,0 +1,24 @@
+METADATA
+version: 1.0
+product: all
+region: IN
+access_level: public
+effective_date: 2026-01-01
+expiry_date: 2026-12-31
+
+PRODUCT FAQ
+
+Product Information:
+Customers can ask customer support about product specifications, availability, and basic product information.
+
+Product Availability:
+Product availability can change depending on current inventory.
+
+Product Damage:
+Customers who receive a damaged product should contact support and provide their order ID.
+
+Wrong Product:
+Customers who receive an incorrect product should contact support with their order ID.
+
+Product Returns:
+Return eligibility depends on the return policy and the condition of the product.

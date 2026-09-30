@@ -1,0 +1,24 @@
+METADATA
+version: 1.0
+product: all
+region: IN
+access_level: public
+effective_date: 2026-01-01
+expiry_date: 2026-12-31
+
+PAYMENT POLICY
+
+Supported Payments:
+Customers can pay using supported debit cards, credit cards, and other payment methods shown during checkout.
+
+Payment Failure:
+If a payment fails, customers should verify their payment information and try the payment again.
+
+Money Deducted:
+If money is deducted but the order is not created, the customer should contact support with the transaction details.
+
+Duplicate Payment:
+If a customer appears to have been charged more than once for the same order, customer support should investigate the transaction.
+
+Payment Security:
+Customers should never share their password, PIN, CVV, or full payment card number with customer support.
